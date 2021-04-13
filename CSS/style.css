@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    background-color: whitesmoke;
+    padding: 10px;
+    margin: 30px;
+}
+nav ul {
+  /* position: relative; */
+}
+
+nav ul li{
+    display: inline-block;
+    color: white;
+    margin: 20px;
+    padding: 10px;
+}
+header{
+    background-color: black;
+    text-align: center;
+    box-sizing: border-box;
+    width: 100%;
+
+}
+nav img {
+    display: inline-block;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+main {
+    margin: 20px;
+}
+
+main div img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+section div {
+  margin-left: 200px;
+  margin-right: 100px;
+  
+}
+section div img{
+     display: inline-block;
+     margin: 30px; 
+    
+}
+
